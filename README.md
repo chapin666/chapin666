@@ -1,5 +1,4 @@
-- 🌱 I’m currently learning Rust
-- 💪 Left hand rust, right hand golang
+- 💪 Left hand Rust, right hand Golang
 - 📫 How to reach me: chapin666（anywhere） 
 - 😄 Pronouns: chapin666
 
