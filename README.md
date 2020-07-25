@@ -1,9 +1,5 @@
 - 💪 Left hand Rust, right hand Golang
 - 📫 How to reach me: chapin666（anywhere） 
 - 😄 Pronouns: chapin666
-
-### Blog
-- WebRTC: [https://zhuanlan.zhihu.com/webrtc](https://zhuanlan.zhihu.com/webrtc)
-- Codec: [https://zhuanlan.zhihu.com/codec666](https://zhuanlan.zhihu.com/codec666)
-- Etcd: [https://zhuanlan.zhihu.com/raft-etcd](https://zhuanlan.zhihu.com/raft-etcd)
-- OSchina: [https://my.oschina.net/997155658](https://my.oschina.net/997155658)
+- 🔗 Articles: [WebRTC](https://zhuanlan.zhihu.com/webrtc)、[Codec](https://zhuanlan.zhihu.com/codec666)、[ETCD](https://zhuanlan.zhihu.com/codec666)、[Blog](https://my.oschina.net/997155658)
+- 📚 Books: [《rust-crash-course-zh》](https://chapin666.gitbook.io/rust-crash-course-zh/),[《too-many-lists-zh》](https://chapin666.gitbook.io/too-many-list-zh/),[《chapin-books》](https://github.com/chapin666/books) ...
